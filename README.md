@@ -41,8 +41,10 @@ Welcome to my GitHub profile! I'm passionate about coding, learning, and buildin
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Design
-- **Figma**
+### Other Tools
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 
 ## 💻 Competitive Programming
 Although I'm early in my competitive programming journey, I'm passionate about algorithmic problem-solving and continuously improving my skills. Competitive programming helps me enhance my logical thinking and coding efficiency.
