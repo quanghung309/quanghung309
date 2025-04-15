@@ -29,6 +29,7 @@ Although I'm early in my competitive programming journey, I'm passionate about a
 
 ### LeetCode Stats
 Stay tuned for my progress and achievements on **[LeetCode](https://leetcode.com/u/quanghung309)**.
+![LeetCode Stats](https://leetcard.jacoblin.cool/quanghung309?theme=light&font=Karma&ext=heatmap)
 
 ## 📊 GitHub Stats
 ![Hung Ha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=quanghung309&show_icons=true&theme=radical)  
