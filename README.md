@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Quang Hung 👋
 
-<!--
-**quanghung309/quanghung309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about coding, technology, and continuously learning new things. Here’s a little about me:
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🌱 I’m currently learning and exploring new technologies.
+- 👨‍💻 I'm interested in **[your interests, e.g., web development, AI, open-source contributions]**.
+- 📫 How to reach me: **[your email or social media links]**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools
+- Languages: **[e.g., Python, JavaScript, etc.]**
+- Frameworks: **[e.g., React, Django, etc.]**
+- Tools: **[e.g., Git, Docker, etc.]**
+
+## 🌟 Featured Projects
+Here are some projects that I’ve been working on:
+- [**Project Name**](#): Description of the project.
+- [**Another Project**](#): Short description of another project.
+
+## 📈 GitHub Stats
+![Quang Hung's GitHub Stats](https://github-readme-stats.vercel.app/api?username=quanghung309&show_icons=true&theme=radical)
+
+## 🤝 Connect with Me
+- [LinkedIn](#)
+- [Twitter](#)
+
+---
+
+Thanks for stopping by! 😊
