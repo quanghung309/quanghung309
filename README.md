@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning, and buildin
 Although I'm early in my competitive programming journey, I'm passionate about algorithmic problem-solving and continuously improving my skills. Competitive programming helps me enhance my logical thinking and coding efficiency.
 
 ### LeetCode Stats
-Stay tuned for my progress and achievements on **[LeetCode](https://leetcode.com/u/quanghung309)**.
+Stay tuned for my progress and achievements on **[LeetCode](https://leetcode.com/quanghung309)**.
 ![LeetCode Stats](https://leetcard.jacoblin.cool/quanghung309?theme=light&font=Karma&ext=heatmap)
 
 
