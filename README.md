@@ -56,6 +56,8 @@ Although I'm early in my competitive programming journey, I'm passionate about a
 
 ### LeetCode Stats
 Stay tuned for my progress and achievements on **[LeetCode](https://leetcode.com/quanghung309)**.
+
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/quanghung309?theme=light&font=Karma&ext=heatmap)
 
 ## 💡 Projects
