@@ -3,22 +3,37 @@
 Welcome to my GitHub profile! I'm passionate about coding, learning, and building impactful projects. Here's a little bit about me and what I do.
 
 ## 🚀 About Me
-- 🔭 I’m currently working on exciting open-source projects.
-- 🌱 I’m learning advanced algorithms, system design, and cloud technologies.
-- 💬 Ask me about **Java**, **Web Development**, and **Software Engineering**.
-- 📫 How to reach me: **hungha.intl@gmail.com**
-- ⚡ Fun fact: I love solving puzzles and exploring new tech trends.
+- 👨‍💻 Frontend Developer passionate about creating responsive and user-friendly web experiences.
+- 🔭 Currently focused on React/NextJS development with a background in UI/UX design.
+- 🌱 Deepening my expertise in **React**, **TypeScript**, and **NextJS**.
+- 💼 Experience with **Agile/Scrum methodologies**.
+- 📫 Reach me at: **hungha.intl@gmail.com**
+- ⚡ Fun fact: **Shiba Inu enthusiast - Small size, big heart!**
+
+## 🎓 Education
+- 📍 **FPT University, Da Nang**  
+  📚 Currently pursuing my degree with a focus on software development.
 
 ## 🛠️ Skills and Tools
-- **Languages**: Java, JavaScript, TypeScript
-- **Web Development**: React, Node.js, Express.js, HTML, CSS, TailwindCSS
-- **Databases**: MySQL, MongoDB, PostgreSQL
-- **Cloud Platforms**: Firebase
-- **Other Tools**: Git, Postman, Visual Studio Code
+### Frontend
+- **React**, **Next.js**, **TypeScript**, **JavaScript**, **HTML5**, **CSS3**, **Tailwind CSS**
 
-## 🏆 GitHub Stats
-![Hung Ha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=quanghung309&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quanghung309&layout=compact&theme=radical)
+### Backend & Others
+- **Java Spring**, **Node.js**, **MongoDB**, **PostgreSQL**, **Git**, **NestJS**
+
+### Design
+- **Figma**
+
+## 💻 Competitive Programming
+Although I'm early in my competitive programming journey, I'm passionate about algorithmic problem-solving and continuously improving my skills. Competitive programming helps me enhance my logical thinking and coding efficiency.
+
+### LeetCode Stats
+Stay tuned for my progress and achievements on **[LeetCode](https://leetcode.com/u/quanghung309)**.
+
+## 📊 GitHub Stats
+![Hung Ha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=quanghung309&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quanghung309&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=quanghung309&theme=radical)
 
 ## 💡 Projects
 Here are some of the projects I've worked on:
