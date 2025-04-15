@@ -27,18 +27,16 @@ Welcome to my GitHub profile! I'm passionate about coding, learning, and buildin
 ## 💻 Competitive Programming
 Although I'm early in my competitive programming journey, I'm passionate about algorithmic problem-solving and continuously improving my skills. Competitive programming helps me enhance my logical thinking and coding efficiency.
 
-### LeetCode Stats
-Stay tuned for my progress and achievements on **[LeetCode](https://leetcode.com/quanghung309)**.
-![LeetCode Stats](https://leetcard.jacoblin.cool/quanghung309?theme=light&font=Karma&ext=heatmap)
-
-
-
-
 
 ## 📊 GitHub Stats
 ![Hung Ha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=quanghung309&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quanghung309&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quanghung309&layout=compact&theme=radical) 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=quanghung309&theme=radical)
+
+
+### LeetCode Stats
+Stay tuned for my progress and achievements on **[LeetCode](https://leetcode.com/quanghung309)**.
+![LeetCode Stats](https://leetcard.jacoblin.cool/quanghung309?theme=light&font=Karma&ext=heatmap)
 
 ## 💡 Projects
 Here are some of the projects I've worked on:
