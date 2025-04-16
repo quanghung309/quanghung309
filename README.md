@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning, and buildin
 
 ## 🚀 About Me
 - 👨‍💻 Frontend Developer passionate about creating responsive and user-friendly web experiences.
-- 🔭 Currently focused on React/NextJS development with a background in UI/UX design.
+- 🔭 Currently focused on React/NextJS development.
 - 🌱 Deepening my expertise in **React**, **TypeScript**, and **NextJS**.
 - 💼 Experience with **Agile/Scrum methodologies**.
 - 📫 Reach me at: **hungha.intl@gmail.com**
