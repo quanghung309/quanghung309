@@ -1,7 +1,7 @@
 # Hi there, I'm Hung Ha 👋
 
 Welcome to my GitHub profile! I'm passionate about coding, learning, and building impactful projects. Here's a little bit about me and what I do.
-
+![Profile Views](https://komarev.com/ghpvc/?username=quanghung309&color=blue)
 ## 🚀 About Me
 - 👨‍💻 Frontend Developer passionate about creating responsive and user-friendly web experiences.
 - 🔭 Currently focused on React/NextJS development.
