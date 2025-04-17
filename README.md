@@ -33,7 +33,7 @@
 <div align="center">
   <table>
     <tr>
-  <td width="45%" style="border:1px solid #444; border-radius:10px; padding:15px; background-color:#1e1e1e;">
+  <td width="45%" style="border:1px solid #ff6347; border-radius:10px; padding:15px; background-color:#1e1e1e;">
     <h3><strong>📘 <span style="color:#e75480;">Benkyo</span></strong></h3>
     <p style="color:#f7a420;">A flashcard web app using AI-powered quizzes and FSRS for better learning.</p>
     <p>
@@ -45,7 +45,7 @@
       </a>
     </p>
   </td>
-  <td width="45%" style="border:1px solid #444; border-radius:10px; padding:15px; background-color:#1e1e1e;">
+  <td width="45%" style="border:1px solid #ff6347; border-radius:10px; padding:15px; background-color:#1e1e1e;">
     <h3><strong>💪 <span style="color:#e83e8c;">Body-Up</span></strong></h3>
     <p style="color:#e2e2e2;">A platform for fitness support and community interaction.</p>
     <p>
@@ -59,7 +59,7 @@
   </td>
 </tr>
     <tr>
-      <td width="45%" style="border:1px solid #444; border-radius:10px; padding:15px; background-color:#1e1e1e;">
+      <td width="45%" style="border:1px solid #32cd32; border-radius:10px; padding:15px; background-color:#1e1e1e;">
         <h3><strong>🏡 <span style="color:#20c997;">Properties Pulse</span></strong></h3>
         <p style="color:#b3e2b1;">A platform for viewing, bookmarking, and booking real estate properties.</p>
         <p>
@@ -71,7 +71,7 @@
           </a>
         </p>
       </td>
-      <td width="45%" style="border:1px solid #444; border-radius:10px; padding:15px; background-color:#1e1e1e;">
+      <td width="45%" style="border:1px solid #ff6347; border-radius:10px; padding:15px; background-color:#1e1e1e;">
         <h3><strong>🛒 <span style="color:#f67280;">Shoppy</span></strong></h3>
         <p style="color:#ff9b9b;">An e-commerce platform for product listings, real-time updates, and purchasing.</p>
         <p>
