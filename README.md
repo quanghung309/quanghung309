@@ -1,103 +1,106 @@
-# Hi there, I'm Hung Ha 👋
+<h1 align="center">Hi there, I'm Hung Ha 👋</h1>
 
-Welcome to my GitHub profile! I'm passionate about coding, learning, and building impactful projects. Here's a little bit about me and what I do.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7A420&center=true&vCenter=true&width=435&lines=Frontend+Developer;Shiba+Inu+Lover;React+%2B+Next.js+Enthusiast" alt="Typing SVG" />
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=quanghung309&color=blue)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=quanghung309&color=blue" alt="Profile Views" />
+</p>
 
 ---
 
 ## 🚀 About Me
-- 👨‍💻 **Frontend Developer** passionate about creating responsive and user-friendly web experiences.
-- 🔭 **Currently focused on**: **React** and **Next.js** development.
-- 🌱 **Learning**: **React**, **TypeScript**, and **Next.js**.
-- 💼 **Experience**: Agile/Scrum methodologies.
-- 📫 **Contact**: **hungha.intl@gmail.com**
-- ⚡ **Fun fact**: **Shiba Inu enthusiast - Small size, big heart!**
+
+- 👨‍💻 Frontend Developer passionate about modern web.
+- 🔭 Focused on: **React**, **Next.js**, **TypeScript**
+- 📚 Learning: Performance, Clean Code, Testing
+- 📫 Reach me at: **hungha.intl@gmail.com**
+- 🐶 Shiba Inu enthusiast – small size, BIG heart 💛
 
 ---
 
 ## 🎓 Education
+
 🎓 **FPT University, Da Nang**  
-📚 Pursuing my degree, focusing on **Software Development**.
+📘 Major: Software Development
 
 ---
 
-## 🛠️ Skills and Tools
-### 💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+## 🛠️ Tech Stack
 
 ### 🌐 Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss)
 
 ### 🔧 Backend
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-000?style=flat&logo=express)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring)
 
-### ☁️ Cloud Platforms
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+### 🗃️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql)
 
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-### 🛠️ Other Tools
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+### ⚒️ Dev Tools
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase)
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
+## 📈 GitHub Stats
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=quanghung309&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quanghung309&layout=compact&theme=radical" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=quanghung309&theme=radical" width="48%" />
-</div>
+</p>
 
 ---
 
 ## 🧠 LeetCode Stats
-Stay tuned for my progress and achievements on **[LeetCode](https://leetcode.com/quanghung309)**.
 
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/quanghung309?theme=light&font=Karma&ext=heatmap" width="75%" />
-</div>
+<p align="center">
+  <a href="https://leetcode.com/quanghung309">
+    <img src="https://leetcard.jacoblin.cool/quanghung309?theme=light&font=Karma&ext=heatmap" width="75%" />
+  </a>
+</p>
 
 ---
 
 ## 💡 Projects
-Here are some of the projects I've worked on:
-- 🔥 **[Benkyo](https://github.com/duonganh203/benkyo)** - A simple and effective flashcard application that helps you learn anything faster. Create your own flashcards or choose from pre-made decks. Study anytime, anywhere.
-- 🏋️‍♂️ **[Body Up](#)** - On this platform, you can join a fitness community, find free workout programs, and access home workout videos for weight loss or muscle gain.
+
+- 🔥 [**Benkyo**](https://github.com/duonganh203/benkyo): Flashcard app to learn anything, powered by spaced repetition.
+- 🏋️‍♂️ [**Body Up**](#): Fitness social platform with free workout programs.
 
 ---
 
-## 🎨 Fun Animation
-<div align="center">
+## 🎨 Contribution Animation
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
+</p>
 
 ---
 
-## 🤝 Let's Connect!
-<div align="center">
+## 🤝 Let's Connect
+
+<p align="center">
   <a href="https://www.linkedin.com/in/h%C3%A0-h%C6%B0ng-ba7986302/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/haquanghung309/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-</div>
-  
+</p>
+
 ---
 
-Thank you for visiting my profile! Have a great day! 😊
+<p align="center">
+  💬 *Thanks for visiting! Wishing you an awesome coding journey!* ✨
+</p>
