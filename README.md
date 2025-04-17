@@ -72,9 +72,6 @@ Feel free to check out my projects and reach out if you'd like to connect!
           <a href="https://github.com/quanghung309/properties-pulse">
             <img src="https://img.shields.io/badge/GitHub-Repo-414868?style=flat&logo=github&logoColor=white" alt="GitHub Repo">
           </a>
-          <a href="https://properties-pulse.vercel.app">
-            <img src="https://img.shields.io/badge/Live-Demo-73daca?style=flat&logo=vercel&logoColor=black" alt="Live Demo">
-          </a>
         </p>
       </td>
       <td width="45%" style="background-color:#0f172a; border:1px solid #334155; border-radius:10px; padding:15px;">
