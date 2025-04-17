@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Hung Ha 👋</h1>
 <p align="center">
-  <img src="https://www.shutterstock.com/shutterstock/videos/3724112187/thumb/12.jpg?ip=x480" alt="Welcome to my profile" />
+  <img src="https://www.shutterstock.com/shutterstock/videos/1097746881/thumb/7.jpg?ip=x480" alt="Welcome to my profile" />
 </p>
 
 
