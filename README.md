@@ -29,7 +29,7 @@
 ## 💡 Featured Projects
 
 - 🔥 [**Benkyo**](https://github.com/duonganh203/benkyo): Flashcard app to learn anything, powered by spaced repetition.
-- 🏋️‍♂️ [**Body Up**](https://github.com/duonganh203/body-up-fe): Fitness social platform with free workout programs.
+- 🏋️‍♂️ [**Body Up**](https://github.com/Gaming-Thi-u-Gia/body-up-fe): Fitness social platform with free workout programs.
 
 ---
 ## 🛠️ Tech Stack
