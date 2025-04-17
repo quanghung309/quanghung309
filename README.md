@@ -40,7 +40,7 @@ Feel free to check out my projects and reach out if you'd like to connect!
 <div align="center">
   <table>
     <tr>
-      <td width="45%" style="border:1px solid #4fd1c5; border-radius:10px; padding:15px; background-color:#1a1b26;">
+      <<td width="45%" style="background-color:#0f172a; border:1px solid #334155; border-radius:10px; padding:15px;">
         <h3><strong>📘 <span style="color:#7aa2f7;">Benkyo</span></strong></h3>
         <p style="color:#94a3b8;">A flashcard web app using AI-powered quizzes and FSRS for better learning.</p>
         <p>
@@ -52,7 +52,7 @@ Feel free to check out my projects and reach out if you'd like to connect!
           </a>
         </p>
       </td>
-      <td width="45%" style="border:1px solid #4fd1c5; border-radius:10px; padding:15px; background-color:#1a1b26;">
+      <td width="45%" style="background-color:#0f172a; border:1px solid #334155; border-radius:10px; padding:15px;">
         <h3><strong>💪 <span style="color:#bb9af7;">Body-Up</span></strong></h3>
         <p style="color:#94a3b8;">A platform for fitness support and community interaction.</p>
         <p>
@@ -66,7 +66,7 @@ Feel free to check out my projects and reach out if you'd like to connect!
       </td>
     </tr>
     <tr>
-      <td width="45%" style="border:1px solid #4fd1c5; border-radius:10px; padding:15px; background-color:#1a1b26;">
+      <td width="45%" style="background-color:#0f172a; border:1px solid #334155; border-radius:10px; padding:15px;">
         <h3><strong>🏡 <span style="color:#7dcfff;">Properties Pulse</span></strong></h3>
         <p style="color:#94a3b8;">A platform for viewing, bookmarking, and booking real estate properties.</p>
         <p>
@@ -78,7 +78,7 @@ Feel free to check out my projects and reach out if you'd like to connect!
           </a>
         </p>
       </td>
-      <td width="45%" style="border:1px solid #4fd1c5; border-radius:10px; padding:15px; background-color:#1a1b26;">
+      <td width="45%" style="background-color:#0f172a; border:1px solid #334155; border-radius:10px; padding:15px;">
         <h3><strong>🛒 <span style="color:#f7768e;">Shoppy</span></strong></h3>
         <p style="color:#94a3b8;">An e-commerce platform for product listings, real-time updates, and purchasing.</p>
         <p>
