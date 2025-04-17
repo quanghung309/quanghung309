@@ -3,13 +3,14 @@
   <img src="https://static.vecteezy.com/system/resources/previews/005/092/960/non_2x/welcome-symbol-a-welcome-sign-on-a-black-background-in-a-haze-with-a-shadow-greeting-wish-login-invitation-logo-illustration-in-gloss-vector.jpg" alt="Welcome to my profile" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=quanghung309&color=blue" alt="Profile Views" />
-</p>
+
 
 ---
 
 ## 🚀 About Me
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=quanghung309&color=blue" alt="Profile Views" />
+</p>
 Welcome to my profile! 👋  
 Hi there, I'm Hung Ha 👋,I'm a **Fullstack Developer** passionate about modern web technologies. I specialize in **React**, **Next.js**, **TypeScript**, and **Node.js**.  
 Feel free to check out my projects and reach out if you'd like to connect!
