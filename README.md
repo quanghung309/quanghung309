@@ -16,7 +16,6 @@
 Welcome to my profile! 👋  
 Hi there, I'm Hung Ha 👋,I'm a **Fullstack Developer** passionate about modern web technologies. I specialize in **React**, **Next.js**, **TypeScript**, and **Node.js**.  
 Feel free to check out my projects and reach out if you'd like to connect!
-## 🤝 Let's Connect
 <a href="https://www.linkedin.com/in/h%C3%A0-h%C6%B0ng-ba7986302/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
 </a>
