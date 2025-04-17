@@ -28,9 +28,30 @@
 ---
 ## 💡 Featured Projects
 
-- 🔥 [**Benkyo**](https://github.com/duonganh203/benkyo): Flashcard app to learn anything, powered by spaced repetition.
-- 🏋️‍♂️ [**Body Up**](https://github.com/Gaming-Thi-u-Gia/body-up-fe): Fitness social platform with free workout programs.
+<div align="center">
 
+<table>
+  <tr>
+    <td align="center" width="45%">
+      <a href="https://github.com/duonganh203/benkyo" target="_blank">
+        <img src="https://raw.githubusercontent.com/duonganh203/benkyo/main/public/icon.svg" width="100px" alt="Benkyo Logo" />
+        <br/>
+        <b>Benkyo</b>
+      </a>
+      <p>🧠 Flashcard app using Spaced Repetition to help you learn anything efficiently.</p>
+    </td>
+    <td align="center" width="45%">
+      <a href="https://github.com/Gaming-Thi-u-Gia/body-up-fe" target="_blank">
+        <img src="https://raw.githubusercontent.com/Gaming-Thi-u-Gia/body-up-fe/main/public/logo.png" width="100px" alt="Body Up Logo" />
+        <br/>
+        <b>Body Up</b>
+      </a>
+      <p>🏋️‍♂️ Fitness social platform with free workout programs and motivation hub.</p>
+    </td>
+  </tr>
+</table>
+
+</div>
 ---
 ## 🛠️ Tech Stack
 
