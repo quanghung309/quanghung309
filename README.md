@@ -1,7 +1,10 @@
 <h1 align="center">Hi there, I'm Hung Ha 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7A420&center=true&vCenter=true&width=435&lines=Fullstack+Developer;React+%2B+Next.js+Enthusiast" alt="Typing SVG" />
+  <img src="https://static-cdn.jtvnw.net/jtv_user_pictures/a6dd15f7-6e80-41e0-8772-4b921a482098-profile_banner-480.jpeg" alt="Welcome to my profile" />
 </p>
+<!-- <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7A420&center=true&vCenter=true&width=435&lines=Fullstack+Developer;React+%2B+Next.js+Enthusiast" alt="Typing SVG" />
+</p> -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=quanghung309&color=blue" alt="Profile Views" />
