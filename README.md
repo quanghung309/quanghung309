@@ -1,10 +1,8 @@
-![image](https://github.com/user-attachments/assets/ed985d72-2906-4900-890e-33ddaf91208e)<h1 align="center">Hi there, I'm Hung Ha 👋</h1>
+<h1 align="center">Hi there, I'm Hung Ha 👋</h1>
 <p align="center">
-  <img src="https://www.shutterstock.com/shutterstock/videos/3421549901/thumb/1.jpg?ip=x480" alt="Welcome to my profile" />
+  <img src="https://www.shutterstock.com/shutterstock/videos/3724112187/thumb/12.jpg?ip=x480" alt="Welcome to my profile" />
 </p>
-<!-- <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7A420&center=true&vCenter=true&width=435&lines=Fullstack+Developer;React+%2B+Next.js+Enthusiast" alt="Typing SVG" />
-</p> -->
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=quanghung309&color=blue" alt="Profile Views" />
