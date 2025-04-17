@@ -25,13 +25,6 @@ Feel free to check out my projects and reach out if you'd like to connect!
 </a>
 
 ---
-
-## 🎓 Education
-
-🎓 **FPT University, Da Nang**  
-📘 Major: Software Development
-
----
 ## 💡 Featured Projects
 
 <h3 align="center">Here are some of the projects I've worked on:</h3>
