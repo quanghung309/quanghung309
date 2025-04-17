@@ -80,6 +80,13 @@ Here are some of the projects I've worked on:
 
 ---
 
+## 🎨 Fun Animation
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
+
+---
+
 ## 🤝 Let's Connect!
 <div align="center">
   <a href="https://www.linkedin.com/in/h%C3%A0-h%C6%B0ng-ba7986302/">
