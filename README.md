@@ -29,9 +29,6 @@ Feel free to check out my projects and reach out if you'd like to connect!
 
 ---
 ## 💡 Featured Projects
-
-<h3 align="center">Here are some of the projects I've worked on:</h3>
-
 <div align="center" style="background-color: #0f172a;">
   <table style="background-color: #0f172a;">
     <tr style="background-color: #0f172a;">
