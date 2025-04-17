@@ -33,23 +33,43 @@
 <div align="center">
   <table>
     <tr>
-      <td width="45%" style="border:1px solid #444; border-radius:10px; padding:15px; background-color:#1e1e1e;">
-        <h3><strong>📘 <span style="color:#e75480;">benkyo</span></strong></h3>
-        <p>Benkyo is a simple and effective flashcard app that helps you learn anything faster.</p>
-        <p>
-          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
-        </p>
-        <a href="https://github.com/duonganh203/benkyo">🔗 View Repo</a>
-      </td>
-      <td width="45%" style="border:1px solid #444; border-radius:10px; padding:15px; background-color:#1e1e1e;">
-        <h3><strong>📘 <span style="color:#e83e8c;">body-up-fe</span></strong></h3>
-        <p>Join a fitness community with workout programs for weight loss or muscle gain.</p>
-        <p>
-          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
-        </p>
-        <a href="https://github.com/Gaming-Thi-u-Gia/body-up-fe">🔗 View Repo</a>
-      </td>
-    </tr>
+  <td width="45%" style="border:1px solid #444; border-radius:10px; padding:15px; background-color:#1e1e1e;">
+    <h3><strong>💪 <span style="color:#e83e8c;">Body-Up</span></strong></h3>
+    <p>A platform for fitness support and exchange with community features.</p>
+    <ul>
+      <li>🔑 CRUD Comments, Nested Comments, Multi-tier Replies</li>
+      <li>💬 Real-time Chatting, Share/Bookmark Posts</li>
+      <li>📧 Forgot Password, Profile Update, Send Mail</li>
+      <li>🤖 AI Chatting, Lazy Loading, Pagination</li>
+    </ul>
+    <p>
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
+    </p>
+    <a href="https://github.com/Gaming-Thi-u-Gia/body-up-fe/tree/development">🔗 Frontend Repo</a> | 
+    <a href="https://github.com/Gaming-Thi-u-Gia/body-up-be/tree/development">🔗 Backend Repo</a> | 
+    <a href="https://body-up-fe.vercel.app">🚀 Live Demo</a>
+  </td>
+  <td width="45%" style="border:1px solid #444; border-radius:10px; padding:15px; background-color:#1e1e1e;">
+    <h3><strong>📘 <span style="color:#e75480;">Benkyo</span></strong></h3>
+    <p>A flashcard web app with AI-powered quizzes and FSRS algorithm for better learning.</p>
+    <ul>
+      <li>🤖 AI Quiz Generation, Quiz-taking & Result Calculation</li>
+      <li>📚 FSRS Algorithm for Efficient Learning Review</li>
+      <li>🔑 Google/Facebook Authentication, Refresh Token</li>
+    </ul>
+    <p>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+    </p>
+    <a href="https://github.com/duonganh203/benkyo">🔗 View Repo</a> | 
+    <a href="https://benkyo.live">🚀 Live Demo</a>
+  </td>
+</tr>
     <tr>
       <td width="45%" style="border:1px solid #444; border-radius:10px; padding:15px; background-color:#1e1e1e;">
         <h3><strong>🏡 <span style="color:#20c997;">Properties Pulse</span></strong></h3>
