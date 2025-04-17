@@ -150,7 +150,7 @@ Feel free to check out my projects and reach out if you'd like to connect!
 
 <p align="center">
   <a href="https://leetcode.com/quanghung309">
-    <img src="https://leetcard.jacoblin.cool/quanghung309?theme=light&font=Karma&ext=heatmap" width="50%" />
+    <img src="https://leetcard.jacoblin.cool/quanghung309?theme=light&font=Karma&ext=heatmap" width="40%" />
   </a>
 </p>
 
