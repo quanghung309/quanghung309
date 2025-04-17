@@ -127,18 +127,20 @@ Feel free to check out my projects and reach out if you'd like to connect!
 ---
 
 ## 📈 GitHub Stats
+<div align="center">
   <table>
     <tr>
-      <td>
+      <td width="50%">
         <h3 align="center" style="color:#e75480;">GitHub Stats</h3>
-        <img src="https://github-readme-stats.vercel.app/api?username=quanghung309&show_icons=true&theme=radical" width="400px" />
+        <img src="https://github-readme-stats.vercel.app/api?username=quanghung309&show_icons=true&theme=radical" width="100%" />
       </td>
-      <td>
+      <td width="50%">
         <h3 align="center" style="color:#e75480;">Most Used Languages</h3>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quanghung309&theme=radical&langs_count=10&layout=compact" width="400px" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quanghung309&theme=radical&langs_count=10&layout=compact" width="100%" />
       </td>
     </tr>
   </table>
+</div>
 
 
 
