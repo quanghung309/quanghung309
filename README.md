@@ -66,7 +66,7 @@
       <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
     </p>
     <a href="https://github.com/Gaming-Thi-u-Gia/body-up-fe/tree/development">🔗 Frontend Repo</a> | 
-    <a href="https://github.com/Gaming-Thi-u-Gia/body-up-be/tree/development">🔗 Backend Repo</a> | 
+    <a href="https://github.com/Gaming-Thi-u-Gia/body-up-be/tree/development">🔗 Backend Repo</a> 
   </td>
 </tr>
     <tr>
