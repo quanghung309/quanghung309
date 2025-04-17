@@ -32,38 +32,62 @@
 
 <div align="center">
   <table>
-    <thead>
-      <tr>
-        <th>Project</th>
-        <th>Description</th>
-        <th>Tech Stack</th>
-        <th>Links</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><strong>📘 Benkyo</strong></td>
-        <td>Benkyo is a simple and effective flashcard app that helps you learn anything faster.</td>
-        <td>
+    <tr>
+      <td width="45%" style="border:1px solid #444; border-radius:10px; padding:15px; background-color:#1e1e1e;">
+        <h3><strong>📘 <span style="color:#e75480;">benkyo</span></strong></h3>
+        <p>Benkyo is a simple and effective flashcard app that helps you learn anything faster.</p>
+        <p>
           <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
-        </td>
-        <td>
-          <a href="https://github.com/duonganh203/benkyo"><img src="https://img.shields.io/badge/Repo-blue?style=flat&logo=github&logoColor=white" /></a>
-        </td>
-      </tr>
-      <tr>
-        <td><strong>📘 Body-Up</strong></td>
-        <td>Join a fitness community with workout programs for weight loss or muscle gain.</td>
-        <td>
+        </p>
+        <a href="https://github.com/duonganh203/benkyo">🔗 View Repo</a>
+      </td>
+      <td width="45%" style="border:1px solid #444; border-radius:10px; padding:15px; background-color:#1e1e1e;">
+        <h3><strong>📘 <span style="color:#e83e8c;">body-up-fe</span></strong></h3>
+        <p>Join a fitness community with workout programs for weight loss or muscle gain.</p>
+        <p>
           <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
-        </td>
-        <td>
-          <a href="https://github.com/Gaming-Thi-u-Gia/body-up-fe"><img src="https://img.shields.io/badge/Repo-blue?style=flat&logo=github&logoColor=white" /></a>
-        </td>
-      </tr>
-    </tbody>
+        </p>
+        <a href="https://github.com/Gaming-Thi-u-Gia/body-up-fe">🔗 View Repo</a>
+      </td>
+    </tr>
+    <tr>
+      <td width="45%" style="border:1px solid #444; border-radius:10px; padding:15px; background-color:#1e1e1e;">
+        <h3><strong>🏡 <span style="color:#20c997;">Properties Pulse</span></strong></h3>
+        <p>A platform to view, bookmark and book real estate properties.</p>
+        <ul>
+          <li>🔑 Google Login, Profile management</li>
+          <li>📌 CRUD properties, Bookmarking</li>
+          <li>🔁 Sharing, Notifications, Messaging</li>
+          <li>🔍 Search & Filter features</li>
+        </ul>
+        <p>
+          <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+          <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+        </p>
+        <a href="https://github.com/quanghung309/properties-pulse">🔗 GitHub</a> | 
+        <a href="https://properties-pulse.vercel.app">🚀 Live Demo</a>
+      </td>
+      <td width="45%" style="border:1px solid #444; border-radius:10px; padding:15px; background-color:#1e1e1e;">
+        <h3><strong>🛒 <span style="color:#f67280;">Shoppy</span></strong></h3>
+        <p>Ecommerce platform for product listing, real-time updates, and purchasing.</p>
+        <ul>
+          <li>🔐 Login/Register with JWT, LocalStrategy</li>
+          <li>⚙️ Real-time CRUD products, Pagination</li>
+          <li>💳 Stripe payments, Order management</li>
+        </ul>
+        <p>
+          <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+          <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
+          <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
+        </p>
+        <a href="https://github.com/quanghung309/shoppy-ui">🔗 Frontend</a> | 
+        <a href="https://github.com/quanghung309/shoppy-backend">🔗 Backend</a>
+      </td>
+    </tr>
   </table>
 </div>
+
 ---
 ## 🛠️ Tech Stack
 
