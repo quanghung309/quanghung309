@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Hung Ha 👋</h1>
 <p align="center">
-  <img src="https://i.pinimg.com/736x/96/f3/14/96f314619100051ca2d6b622db2acbed.jpg" alt="Welcome to my profile" width="100%" />
+  <img src="https://img.freepik.com/premium-vector/welcome-banner-vector-with-neon-light-black-background_647434-164.jpg" alt="Welcome to my profile" width="100%" />
 </p>
 
 
