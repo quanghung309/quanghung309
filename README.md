@@ -4,7 +4,7 @@
     src="https://img.freepik.com/premium-vector/welcome-neon-light-calligraphic-banner-advertising-ultraviolet-extra-glowing-bright-signboard-title-night-club-illuminated-led-line-tube-lights-fluorescent-inscription-glow-lamp-editable-stroke_145044-142.jpg" 
     alt="Welcome to my profile"
     width="100%" 
-    style="height: 270px; object-fit: cover;"
+    style="object-fit: cover;"
   />
 </p>
 
