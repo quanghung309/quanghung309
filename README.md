@@ -40,7 +40,7 @@ Feel free to check out my projects and reach out if you'd like to connect!
 <div align="center">
   <table>
     <tr>
-      <<td width="45%" style="background-color:#0f172a; border:1px solid #334155; border-radius:10px; padding:15px;">
+      <td width="45%" style="background-color:#0f172a; border:1px solid #334155; border-radius:10px; padding:15px;">
         <h3><strong>📘 <span style="color:#7aa2f7;">Benkyo</span></strong></h3>
         <p style="color:#94a3b8;">A flashcard web app using AI-powered quizzes and FSRS for better learning.</p>
         <p>
