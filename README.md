@@ -40,59 +40,60 @@ Feel free to check out my projects and reach out if you'd like to connect!
 <div align="center">
   <table>
     <tr>
-  <td width="45%" style="border:1px solid #ff6347; border-radius:10px; padding:15px; background-color:#1e1e1e;">
-    <h3><strong>📘 <span style="color:#e75480;">Benkyo</span></strong></h3>
-    <p style="color:#f7a420;">A flashcard web app using AI-powered quizzes and FSRS for better learning.</p>
-    <p>
-      <a href="https://github.com/duonganh203/benkyo">
-        <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=flat&logo=github&logoColor=white" alt="GitHub Repo">
-      </a>
-      <a href="https://benkyo.live">
-        <img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=flat&logo=vercel" alt="Live Demo">
-      </a>
-    </p>
-  </td>
-  <td width="45%" style="border:1px solid #ff6347; border-radius:10px; padding:15px; background-color:#1e1e1e;">
-    <h3><strong>💪 <span style="color:#e83e8c;">Body-Up</span></strong></h3>
-    <p style="color:#e2e2e2;">A platform for fitness support and community interaction.</p>
-    <p>
-      <a href="https://github.com/Gaming-Thi-u-Gia/body-up-fe/tree/development">
-        <img src="https://img.shields.io/badge/Frontend-Repo-blue?style=flat&logo=github&logoColor=white" alt="Frontend Repo">
-      </a>
-      <a href="https://github.com/Gaming-Thi-u-Gia/body-up-be/tree/development">
-        <img src="https://img.shields.io/badge/Backend-Repo-blue?style=flat&logo=github&logoColor=white" alt="Backend Repo">
-      </a>
-    </p>
-  </td>
-</tr>
-    <tr>
-      <td width="45%" style="border:1px solid #32cd32; border-radius:10px; padding:15px; background-color:#1e1e1e;">
-        <h3><strong>🏡 <span style="color:#20c997;">Properties Pulse</span></strong></h3>
-        <p style="color:#b3e2b1;">A platform for viewing, bookmarking, and booking real estate properties.</p>
+      <td width="45%" style="border:1px solid #4fd1c5; border-radius:10px; padding:15px; background-color:#1a1b26;">
+        <h3><strong>📘 <span style="color:#7aa2f7;">Benkyo</span></strong></h3>
+        <p style="color:#c0caf5;">A flashcard web app using AI-powered quizzes and FSRS for better learning.</p>
         <p>
-          <a href="https://github.com/quanghung309/properties-pulse">
-            <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=flat&logo=github&logoColor=white" alt="GitHub Repo">
+          <a href="https://github.com/duonganh203/benkyo">
+            <img src="https://img.shields.io/badge/GitHub-Repo-414868?style=flat&logo=github&logoColor=white" alt="GitHub Repo">
           </a>
-          <a href="https://properties-pulse.vercel.app">
-            <img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=flat&logo=vercel" alt="Live Demo">
+          <a href="https://benkyo.live">
+            <img src="https://img.shields.io/badge/Live-Demo-73daca?style=flat&logo=vercel&logoColor=black" alt="Live Demo">
           </a>
         </p>
       </td>
-      <td width="45%" style="border:1px solid #ff6347; border-radius:10px; padding:15px; background-color:#1e1e1e;">
-        <h3><strong>🛒 <span style="color:#f67280;">Shoppy</span></strong></h3>
-        <p style="color:#ff9b9b;">An e-commerce platform for product listings, real-time updates, and purchasing.</p>
+      <td width="45%" style="border:1px solid #4fd1c5; border-radius:10px; padding:15px; background-color:#1a1b26;">
+        <h3><strong>💪 <span style="color:#bb9af7;">Body-Up</span></strong></h3>
+        <p style="color:#c0caf5;">A platform for fitness support and community interaction.</p>
+        <p>
+          <a href="https://github.com/Gaming-Thi-u-Gia/body-up-fe/tree/development">
+            <img src="https://img.shields.io/badge/Frontend-Repo-414868?style=flat&logo=github&logoColor=white" alt="Frontend Repo">
+          </a>
+          <a href="https://github.com/Gaming-Thi-u-Gia/body-up-be/tree/development">
+            <img src="https://img.shields.io/badge/Backend-Repo-414868?style=flat&logo=github&logoColor=white" alt="Backend Repo">
+          </a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="45%" style="border:1px solid #4fd1c5; border-radius:10px; padding:15px; background-color:#1a1b26;">
+        <h3><strong>🏡 <span style="color:#7dcfff;">Properties Pulse</span></strong></h3>
+        <p style="color:#c0caf5;">A platform for viewing, bookmarking, and booking real estate properties.</p>
+        <p>
+          <a href="https://github.com/quanghung309/properties-pulse">
+            <img src="https://img.shields.io/badge/GitHub-Repo-414868?style=flat&logo=github&logoColor=white" alt="GitHub Repo">
+          </a>
+          <a href="https://properties-pulse.vercel.app">
+            <img src="https://img.shields.io/badge/Live-Demo-73daca?style=flat&logo=vercel&logoColor=black" alt="Live Demo">
+          </a>
+        </p>
+      </td>
+      <td width="45%" style="border:1px solid #4fd1c5; border-radius:10px; padding:15px; background-color:#1a1b26;">
+        <h3><strong>🛒 <span style="color:#f7768e;">Shoppy</span></strong></h3>
+        <p style="color:#c0caf5;">An e-commerce platform for product listings, real-time updates, and purchasing.</p>
         <p>
           <a href="https://github.com/quanghung309/shoppy-ui">
-            <img src="https://img.shields.io/badge/Frontend-Repo-blue?style=flat&logo=github&logoColor=white" alt="Frontend Repo">
+            <img src="https://img.shields.io/badge/Frontend-Repo-414868?style=flat&logo=github&logoColor=white" alt="Frontend Repo">
           </a>
           <a href="https://github.com/quanghung309/shoppy-backend">
-            <img src="https://img.shields.io/badge/Backend-Repo-blue?style=flat&logo=github&logoColor=white" alt="Backend Repo">
+            <img src="https://img.shields.io/badge/Backend-Repo-414868?style=flat&logo=github&logoColor=white" alt="Backend Repo">
           </a>
         </p>
       </td>
     </tr>
   </table>
 </div>
+
 
 ---
 ## 🛠️ Tech Stack
