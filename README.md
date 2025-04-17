@@ -8,9 +8,11 @@
 ---
 
 ## 🚀 About Me
-<p align="center">
+<p>
   <img src="https://komarev.com/ghpvc/?username=quanghung309&color=blue" alt="Profile Views" />
 </p>
+
+
 Welcome to my profile! 👋  
 Hi there, I'm Hung Ha 👋,I'm a **Fullstack Developer** passionate about modern web technologies. I specialize in **React**, **Next.js**, **TypeScript**, and **Node.js**.  
 Feel free to check out my projects and reach out if you'd like to connect!
