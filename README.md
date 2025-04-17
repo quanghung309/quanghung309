@@ -38,7 +38,7 @@ Feel free to check out my projects and reach out if you'd like to connect!
 <h3 align="center">Here are some of the projects I've worked on:</h3>
 
 <div align="center">
-  <table>
+  <table style="background-color: #0f172a;">
     <tr style="background-color: #0f172a;">
       <td width="45%" style="background-color:#0f172a; border:1px solid #334155; border-radius:10px; padding:15px;">
         <h3><strong>📘 <span style="color:#7aa2f7;">Benkyo</span></strong></h3>
