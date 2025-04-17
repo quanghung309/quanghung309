@@ -128,13 +128,19 @@ Feel free to check out my projects and reach out if you'd like to connect!
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=quanghung309&show_icons=true&theme=radical" width="48%" height="250px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quanghung309&theme=radical&langs_count=10&layout=pie&hide=css,html,scss" width="48%" height="250px" />
-</p>
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=quanghung309&theme=radical" width="100%" height="250px" />
+  <table>
+    <tr>
+      <td>
+        <h3 align="center" style="color:#e75480;">GitHub Stats</h3>
+        <img src="https://github-readme-stats.vercel.app/api?username=quanghung309&show_icons=true&theme=radical" width="400px" />
+      </td>
+      <td>
+        <h3 align="center" style="color:#e75480;">Most Used Languages</h3>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quanghung309&theme=radical&langs_count=10&layout=compact" width="400px" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 
