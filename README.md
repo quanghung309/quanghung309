@@ -127,16 +127,19 @@ Feel free to check out my projects and reach out if you'd like to connect!
 ---
 
 ## 📈 GitHub Stats
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: nowrap; margin-top: 20px;">
-  <div style="flex: 1; max-width: 500px; padding: 10px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); background-color: #1a1b26;">
-    <h3 align="center" style="color:#e75480;">📊 GitHub Stats</h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=quanghung309&show_icons=true&theme=tokyonight" style="width: 100%; height: 200px; object-fit: cover;" />
-  </div>
-  <div style="flex: 1; max-width: 500px; padding: 10px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); background-color: #1a1b26;">
-    <h3 align="center" style="color:#e75480;">🧠 Most Used Languages</h3>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quanghung309&theme=tokyonight&langs_count=10&layout=compact" style="width: 100%; height: 200px; object-fit: cover;" />
+<div align="center">
+  <div style="display: flex; justify-content: center; align-items: stretch; gap: 20px; max-width: 1100px; width: 100%;">
+    <div style="flex: 1; padding: 10px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); background-color: #1a1b26;">
+      <h3 align="center" style="color:#e75480;">📊 GitHub Stats</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=quanghung309&show_icons=true&theme=tokyonight" style="width: 100%; height: 200px; object-fit: cover;" />
+    </div>
+    <div style="flex: 1; padding: 10px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); background-color: #1a1b26;">
+      <h3 align="center" style="color:#e75480;">🧠 Most Used Languages</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quanghung309&theme=tokyonight&langs_count=10&layout=compact" style="width: 100%; height: 200px; object-fit: cover;" />
+    </div>
   </div>
 </div>
+
 
 
 
