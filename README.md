@@ -35,17 +35,7 @@
     <tr>
   <td width="45%" style="border:1px solid #444; border-radius:10px; padding:15px; background-color:#1e1e1e;">
     <h3><strong>📘 <span style="color:#e75480;">Benkyo</span></strong></h3>
-    <p>A flashcard web app with AI-powered quizzes and FSRS algorithm for better learning.</p>
-    <ul>
-      <li>🤖 AI Quiz Generation, Quiz-taking & Result Calculation</li>
-      <li>📚 FSRS Algorithm for Efficient Learning Review</li>
-      <li>🔑 Google/Facebook Authentication, Refresh Token</li>
-    </ul>
-    <p>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-    </p>
+    <p>A flashcard web app using AI-powered quizzes and FSRS for better learning.</p>
     <p>
       <a href="https://github.com/duonganh203/benkyo">
         <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=flat&logo=github&logoColor=white" alt="GitHub Repo">
@@ -57,20 +47,7 @@
   </td>
   <td width="45%" style="border:1px solid #444; border-radius:10px; padding:15px; background-color:#1e1e1e;">
     <h3><strong>💪 <span style="color:#e83e8c;">Body-Up</span></strong></h3>
-    <p>A platform for fitness support and exchange with community features.</p>
-    <ul>
-      <li>🔑 CRUD Comments, Nested Comments, Multi-tier Replies</li>
-      <li>💬 Real-time Chatting, Share/Bookmark Posts</li>
-      <li>📧 Forgot Password, Profile Update, Send Mail</li>
-      <li>🤖 AI Chatting, Lazy Loading, Pagination</li>
-    </ul>
-    <p>
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
-    </p>
+    <p>A platform for fitness support and community interaction.</p>
     <p>
       <a href="https://github.com/Gaming-Thi-u-Gia/body-up-fe/tree/development">
         <img src="https://img.shields.io/badge/Frontend-Repo-blue?style=flat&logo=github&logoColor=white" alt="Frontend Repo">
@@ -84,18 +61,7 @@
     <tr>
       <td width="45%" style="border:1px solid #444; border-radius:10px; padding:15px; background-color:#1e1e1e;">
         <h3><strong>🏡 <span style="color:#20c997;">Properties Pulse</span></strong></h3>
-        <p>A platform to view, bookmark and book real estate properties.</p>
-        <ul>
-          <li>🔑 Google Login, Profile management</li>
-          <li>📌 CRUD properties, Bookmarking</li>
-          <li>🔁 Sharing, Notifications, Messaging</li>
-          <li>🔍 Search & Filter features</li>
-        </ul>
-        <p>
-          <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
-          <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
-          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-        </p>
+        <p>A platform for viewing, bookmarking, and booking real estate properties.</p>
         <p>
           <a href="https://github.com/quanghung309/properties-pulse">
             <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=flat&logo=github&logoColor=white" alt="GitHub Repo">
@@ -107,17 +73,7 @@
       </td>
       <td width="45%" style="border:1px solid #444; border-radius:10px; padding:15px; background-color:#1e1e1e;">
         <h3><strong>🛒 <span style="color:#f67280;">Shoppy</span></strong></h3>
-        <p>Ecommerce platform for product listing, real-time updates, and purchasing.</p>
-        <ul>
-          <li>🔐 Login/Register with JWT, LocalStrategy</li>
-          <li>⚙️ Real-time CRUD products, Pagination</li>
-          <li>💳 Stripe payments, Order management</li>
-        </ul>
-        <p>
-          <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
-          <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
-          <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
-        </p>
+        <p>An e-commerce platform for product listings, real-time updates, and purchasing.</p>
         <p>
           <a href="https://github.com/quanghung309/shoppy-ui">
             <img src="https://img.shields.io/badge/Frontend-Repo-blue?style=flat&logo=github&logoColor=white" alt="Frontend Repo">
