@@ -127,8 +127,6 @@ Feel free to check out my projects and reach out if you'd like to connect!
 ---
 
 ## 📈 GitHub Stats
-
-<div align="center">
   <table>
     <tr>
       <td>
@@ -141,7 +139,7 @@ Feel free to check out my projects and reach out if you'd like to connect!
       </td>
     </tr>
   </table>
-</div>
+
 
 
 ---
