@@ -49,7 +49,7 @@ Feel free to check out my projects and reach out if you'd like to connect!
       </td>
       <td width="45%" style="background-color:#0f172a; border:1px solid #334155; border-radius:10px; padding:15px;">
         <h3><strong>💪 <span style="color:#bb9af7;">Body-Up</span></strong></h3>
-        <p style="color:#94a3b8;">A platform for fitness support and community interaction.</p>
+        <p style="color:#94a3b8;">A platform for fitness support and community interaction to exchange about gym knowledges.</p>
         <p>
           <a href="https://github.com/Gaming-Thi-u-Gia/body-up-fe/tree/development">
             <img src="https://img.shields.io/badge/Frontend-Repo-414868?style=flat&logo=github&logoColor=white" alt="Frontend Repo">
