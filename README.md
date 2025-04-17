@@ -4,7 +4,7 @@
     src="https://i.pinimg.com/originals/8b/35/72/8b357283fd26e3bb18cc1983c0ebdb9c.gif" 
     alt="Welcome to my profile"
     width="100%"
-    style="max-height: 270px; height: auto; object-fit: cover;" 
+    style="height: 270px;  object-fit: cover;" 
   />
 </p>
 
