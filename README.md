@@ -42,7 +42,7 @@ Feel free to check out my projects and reach out if you'd like to connect!
     <tr>
       <td width="45%" style="border:1px solid #4fd1c5; border-radius:10px; padding:15px; background-color:#1a1b26;">
         <h3><strong>📘 <span style="color:#7aa2f7;">Benkyo</span></strong></h3>
-        <p style="color:#c0caf5;">A flashcard web app using AI-powered quizzes and FSRS for better learning.</p>
+        <p style="color:#94a3b8;">A flashcard web app using AI-powered quizzes and FSRS for better learning.</p>
         <p>
           <a href="https://github.com/duonganh203/benkyo">
             <img src="https://img.shields.io/badge/GitHub-Repo-414868?style=flat&logo=github&logoColor=white" alt="GitHub Repo">
@@ -54,7 +54,7 @@ Feel free to check out my projects and reach out if you'd like to connect!
       </td>
       <td width="45%" style="border:1px solid #4fd1c5; border-radius:10px; padding:15px; background-color:#1a1b26;">
         <h3><strong>💪 <span style="color:#bb9af7;">Body-Up</span></strong></h3>
-        <p style="color:#c0caf5;">A platform for fitness support and community interaction.</p>
+        <p style="color:#94a3b8;">A platform for fitness support and community interaction.</p>
         <p>
           <a href="https://github.com/Gaming-Thi-u-Gia/body-up-fe/tree/development">
             <img src="https://img.shields.io/badge/Frontend-Repo-414868?style=flat&logo=github&logoColor=white" alt="Frontend Repo">
@@ -68,7 +68,7 @@ Feel free to check out my projects and reach out if you'd like to connect!
     <tr>
       <td width="45%" style="border:1px solid #4fd1c5; border-radius:10px; padding:15px; background-color:#1a1b26;">
         <h3><strong>🏡 <span style="color:#7dcfff;">Properties Pulse</span></strong></h3>
-        <p style="color:#c0caf5;">A platform for viewing, bookmarking, and booking real estate properties.</p>
+        <p style="color:#94a3b8;">A platform for viewing, bookmarking, and booking real estate properties.</p>
         <p>
           <a href="https://github.com/quanghung309/properties-pulse">
             <img src="https://img.shields.io/badge/GitHub-Repo-414868?style=flat&logo=github&logoColor=white" alt="GitHub Repo">
@@ -80,7 +80,7 @@ Feel free to check out my projects and reach out if you'd like to connect!
       </td>
       <td width="45%" style="border:1px solid #4fd1c5; border-radius:10px; padding:15px; background-color:#1a1b26;">
         <h3><strong>🛒 <span style="color:#f7768e;">Shoppy</span></strong></h3>
-        <p style="color:#c0caf5;">An e-commerce platform for product listings, real-time updates, and purchasing.</p>
+        <p style="color:#94a3b8;">An e-commerce platform for product listings, real-time updates, and purchasing.</p>
         <p>
           <a href="https://github.com/quanghung309/shoppy-ui">
             <img src="https://img.shields.io/badge/Frontend-Repo-414868?style=flat&logo=github&logoColor=white" alt="Frontend Repo">
