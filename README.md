@@ -28,29 +28,23 @@
 ---
 ## 💡 Featured Projects
 
+<h3>Here are some of the projects I've worked on:</h3>
+
 <div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="45%">
-      <a href="https://github.com/duonganh203/benkyo" target="_blank">
-        <img src="https://raw.githubusercontent.com/duonganh203/benkyo/main/public/icon.svg" width="100px" alt="Benkyo Logo" />
-        <br/>
-        <b>Benkyo</b>
-      </a>
-      <p>🧠 Flashcard app using Spaced Repetition to help you learn anything efficiently.</p>
-    </td>
-    <td align="center" width="45%">
-      <a href="https://github.com/Gaming-Thi-u-Gia/body-up-fe" target="_blank">
-        <img src="https://raw.githubusercontent.com/Gaming-Thi-u-Gia/body-up-fe/main/public/logo.png" width="100px" alt="Body Up Logo" />
-        <br/>
-        <b>Body Up</b>
-      </a>
-      <p>🏋️‍♂️ Fitness social platform with free workout programs and motivation hub.</p>
-    </td>
-  </tr>
-</table>
-
+  <table>
+    <tr>
+      <td width="45%">
+        <h4>📘 <a href="https://github.com/duonganh203/benkyo"><strong style="color:#d63384;">benkyo</strong></a></h4>
+        <p>Benkyo is a simple and effective flashcard app that helps you learn anything faster.</p>
+        <p>🟦 TypeScript &nbsp;&nbsp; 🔗 <a href="https://github.com/duonganh203/benkyo">Repo</a></p>
+      </td>
+      <td>
+        <h4>📘 <a href="https://github.com/Gaming-Thi-u-Gia/body-up-fe"><strong style="color:#d63384;">body-up-fe</strong></a></h4>
+        <p>Join a fitness community with workout programs for weight loss or muscle gain.</p>
+        <p>🟦 TypeScript &nbsp;&nbsp; 🔗 <a href="https://github.com/Gaming-Thi-u-Gia/body-up-fe">Repo</a></p>
+      </td>
+    </tr>
+  </table>
 </div>
 ---
 ## 🛠️ Tech Stack
