@@ -16,13 +16,13 @@ I'm a **Fullstack Developer** passionate about modern web technologies. I specia
 Feel free to check out my projects and reach out if you'd like to connect!
 ## 🤝 Let's Connect
 <a href="https://www.linkedin.com/in/h%C3%A0-h%C6%B0ng-ba7986302/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/haquanghung309/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
   </a>
   <a href="mailto:hungha.intl@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FF4500?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-FF4500?style=flat&logo=gmail&logoColor=white" />
   </a>
 
 ---
