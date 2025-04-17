@@ -35,7 +35,7 @@
     <tr>
   <td width="45%" style="border:1px solid #444; border-radius:10px; padding:15px; background-color:#1e1e1e;">
     <h3><strong>📘 <span style="color:#e75480;">Benkyo</span></strong></h3>
-    <p>A flashcard web app using AI-powered quizzes and FSRS for better learning.</p>
+    <p style="color:#f7a420;">A flashcard web app using AI-powered quizzes and FSRS for better learning.</p>
     <p>
       <a href="https://github.com/duonganh203/benkyo">
         <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=flat&logo=github&logoColor=white" alt="GitHub Repo">
@@ -47,7 +47,7 @@
   </td>
   <td width="45%" style="border:1px solid #444; border-radius:10px; padding:15px; background-color:#1e1e1e;">
     <h3><strong>💪 <span style="color:#e83e8c;">Body-Up</span></strong></h3>
-    <p>A platform for fitness support and community interaction.</p>
+    <p style="color:#e2e2e2;">A platform for fitness support and community interaction.</p>
     <p>
       <a href="https://github.com/Gaming-Thi-u-Gia/body-up-fe/tree/development">
         <img src="https://img.shields.io/badge/Frontend-Repo-blue?style=flat&logo=github&logoColor=white" alt="Frontend Repo">
@@ -61,7 +61,7 @@
     <tr>
       <td width="45%" style="border:1px solid #444; border-radius:10px; padding:15px; background-color:#1e1e1e;">
         <h3><strong>🏡 <span style="color:#20c997;">Properties Pulse</span></strong></h3>
-        <p>A platform for viewing, bookmarking, and booking real estate properties.</p>
+        <p style="color:#b3e2b1;">A platform for viewing, bookmarking, and booking real estate properties.</p>
         <p>
           <a href="https://github.com/quanghung309/properties-pulse">
             <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=flat&logo=github&logoColor=white" alt="GitHub Repo">
@@ -73,7 +73,7 @@
       </td>
       <td width="45%" style="border:1px solid #444; border-radius:10px; padding:15px; background-color:#1e1e1e;">
         <h3><strong>🛒 <span style="color:#f67280;">Shoppy</span></strong></h3>
-        <p>An e-commerce platform for product listings, real-time updates, and purchasing.</p>
+        <p style="color:#ff9b9b;">An e-commerce platform for product listings, real-time updates, and purchasing.</p>
         <p>
           <a href="https://github.com/quanghung309/shoppy-ui">
             <img src="https://img.shields.io/badge/Frontend-Repo-blue?style=flat&logo=github&logoColor=white" alt="Frontend Repo">
