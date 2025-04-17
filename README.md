@@ -65,12 +65,12 @@ Stay tuned for my progress and achievements on **[LeetCode](https://leetcode.com
 
 ## 💡 Projects
 Here are some of the projects I've worked on:
-- **[Benkyo](#)** - A simple and effective flashcard application that helps you learn anything faster. Create your own flashcards or choose from pre-made decks. Study anytime, anywhere.
+- **[Benkyo](https://github.com/duonganh203/benkyo)** - A simple and effective flashcard application that helps you learn anything faster. Create your own flashcards or choose from pre-made decks. Study anytime, anywhere.
 - **[Body Up](#)** - On this platform, you can join a fitness community, find free workout programs, and access home workout videos for weight loss or muscle gain.
 
 ## 🤝 Let's Connect!
-- [LinkedIn](#)
-- [Facebook](#)
+- [LinkedIn](https://www.linkedin.com/in/h%C3%A0-h%C6%B0ng-ba7986302/)
+- [Facebook](https://www.facebook.com/haquanghung309/)
 - **Portfolio** - Coming Soon...
 
 ---
