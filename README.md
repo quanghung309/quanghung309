@@ -130,13 +130,13 @@ Feel free to check out my projects and reach out if you'd like to connect!
 <div align="center">
   <table style="table-layout: fixed; width: 100%; border-collapse: collapse;">
     <tr>
-      <td style="width: 50%; vertical-align: top; padding: 10px;">
+      <td style="width: 50%; vertical-align: top; padding: 10px; height: 300px;">
         <h3 align="center" style="color:#e75480;">GitHub Stats</h3>
-        <img src="https://github-readme-stats.vercel.app/api?username=quanghung309&show_icons=true&theme=radical" style="width: 100%; height: auto;" />
+        <img src="https://github-readme-stats.vercel.app/api?username=quanghung309&show_icons=true&theme=radical" style="width: 100%; height: 100%;" />
       </td>
-      <td style="width: 50%; vertical-align: top; padding: 10px;">
+      <td style="width: 50%; vertical-align: top; padding: 10px; height: 300px;">
         <h3 align="center" style="color:#e75480;">Most Used Languages</h3>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quanghung309&theme=radical&langs_count=10&layout=compact" style="width: 100%; height: auto;" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quanghung309&theme=radical&langs_count=10&layout=compact" style="width: 100%; height: 100%;" />
       </td>
     </tr>
   </table>
