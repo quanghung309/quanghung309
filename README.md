@@ -46,8 +46,14 @@
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
     </p>
-    <a href="https://github.com/duonganh203/benkyo">🔗 View Repo</a> | 
-    <a href="https://benkyo.live">🚀 Live Demo</a>
+    <p>
+      <a href="https://github.com/duonganh203/benkyo">
+        <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=flat&logo=github&logoColor=white" alt="GitHub Repo">
+      </a>
+      <a href="https://benkyo.live">
+        <img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=flat&logo=vercel" alt="Live Demo">
+      </a>
+    </p>
   </td>
   <td width="45%" style="border:1px solid #444; border-radius:10px; padding:15px; background-color:#1e1e1e;">
     <h3><strong>💪 <span style="color:#e83e8c;">Body-Up</span></strong></h3>
@@ -65,8 +71,14 @@
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" />
       <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
     </p>
-    <a href="https://github.com/Gaming-Thi-u-Gia/body-up-fe/tree/development">🔗 Frontend Repo</a> | 
-    <a href="https://github.com/Gaming-Thi-u-Gia/body-up-be/tree/development">🔗 Backend Repo</a> 
+    <p>
+      <a href="https://github.com/Gaming-Thi-u-Gia/body-up-fe/tree/development">
+        <img src="https://img.shields.io/badge/Frontend-Repo-blue?style=flat&logo=github&logoColor=white" alt="Frontend Repo">
+      </a>
+      <a href="https://github.com/Gaming-Thi-u-Gia/body-up-be/tree/development">
+        <img src="https://img.shields.io/badge/Backend-Repo-blue?style=flat&logo=github&logoColor=white" alt="Backend Repo">
+      </a>
+    </p>
   </td>
 </tr>
     <tr>
@@ -84,8 +96,14 @@
           <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
           <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
         </p>
-        <a href="https://github.com/quanghung309/properties-pulse">🔗 GitHub</a> | 
-        <a href="https://properties-pulse.vercel.app">🚀 Live Demo</a>
+        <p>
+          <a href="https://github.com/quanghung309/properties-pulse">
+            <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=flat&logo=github&logoColor=white" alt="GitHub Repo">
+          </a>
+          <a href="https://properties-pulse.vercel.app">
+            <img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=flat&logo=vercel" alt="Live Demo">
+          </a>
+        </p>
       </td>
       <td width="45%" style="border:1px solid #444; border-radius:10px; padding:15px; background-color:#1e1e1e;">
         <h3><strong>🛒 <span style="color:#f67280;">Shoppy</span></strong></h3>
@@ -100,8 +118,14 @@
           <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
           <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
         </p>
-        <a href="https://github.com/quanghung309/shoppy-ui">🔗 Frontend</a> | 
-        <a href="https://github.com/quanghung309/shoppy-backend">🔗 Backend</a>
+        <p>
+          <a href="https://github.com/quanghung309/shoppy-ui">
+            <img src="https://img.shields.io/badge/Frontend-Repo-blue?style=flat&logo=github&logoColor=white" alt="Frontend Repo">
+          </a>
+          <a href="https://github.com/quanghung309/shoppy-backend">
+            <img src="https://img.shields.io/badge/Backend-Repo-blue?style=flat&logo=github&logoColor=white" alt="Backend Repo">
+          </a>
+        </p>
       </td>
     </tr>
   </table>
