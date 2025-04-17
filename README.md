@@ -26,7 +26,12 @@
 📘 Major: Software Development
 
 ---
+## 💡 Projects
 
+- 🔥 [**Benkyo**](https://github.com/duonganh203/benkyo): Flashcard app to learn anything, powered by spaced repetition.
+- 🏋️‍♂️ [**Body Up**](https://github.com/duonganh203/body-up-fe): Fitness social platform with free workout programs.
+
+---
 ## 🛠️ Tech Stack
 
 ### 💻 Languages  
@@ -82,12 +87,7 @@
 
 ---
 
-## 💡 Projects
 
-- 🔥 [**Benkyo**](https://github.com/duonganh203/benkyo): Flashcard app to learn anything, powered by spaced repetition.
-- 🏋️‍♂️ [**Body Up**](#): Fitness social platform with free workout programs.
-
----
 
 ## 🎨 Contribution Animation
 
