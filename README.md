@@ -1,7 +1,7 @@
 <h1 align="center"></h1>
 <p align="center">
   <img 
-    src="https://i.pinimg.com/originals/8b/35/72/8b357283fd26e3bb18cc1983c0ebdb9c.gif" 
+    src="https://img.freepik.com/premium-vector/welcome-banner-with-neon-light-effect_129696-241.jpg" 
     alt="Welcome to my profile"
     width="100%" 
     style="height: 270px; object-fit: cover;"
