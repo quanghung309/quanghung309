@@ -1,10 +1,5 @@
 <h1 align="center">Hi there, I'm Hung Ha 👋</h1>
 <p align="center">
-  <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F7A420&center=true&vCenter=true&width=1000&lines=✨+Hung+Ha's+GitHub+Profile+✨" />
-  </h1>
-</p>
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7A420&center=true&vCenter=true&width=435&lines=Fullstack+Developer;React+%2B+Next.js+Enthusiast" alt="Typing SVG" />
 </p>
 
