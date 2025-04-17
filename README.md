@@ -124,8 +124,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=quanghung309&show_icons=true&theme=radical" width="48%" height="250px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quanghung309&theme=radical&langs_count=10&layout=pie&hide=css,html,scss" width="48%" height="250px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=quanghung309&theme=radical" width="48%" height="250px" />
 </p>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=quanghung309&theme=radical" width="100%" height="250px" />
+</div>
 
 
 ---
