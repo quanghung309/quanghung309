@@ -1,6 +1,6 @@
 <h1 align="center"></h1>
 <p align="center">
-  <img src="https://static.vecteezy.com/system/resources/previews/005/092/960/non_2x/welcome-symbol-a-welcome-sign-on-a-black-background-in-a-haze-with-a-shadow-greeting-wish-login-invitation-logo-illustration-in-gloss-vector.jpg" alt="Welcome to my profile" width="100%" />
+  <img src="https://img.freepik.com/premium-vector/welcome-banner-with-neon-light-effect_129696-241.jpg" alt="Welcome to my profile" width="100%" />
 </p>
 
 
