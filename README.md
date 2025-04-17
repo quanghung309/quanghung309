@@ -26,7 +26,7 @@
 📘 Major: Software Development
 
 ---
-## 💡 Projects
+## 💡 Featured Projects
 
 - 🔥 [**Benkyo**](https://github.com/duonganh203/benkyo): Flashcard app to learn anything, powered by spaced repetition.
 - 🏋️‍♂️ [**Body Up**](https://github.com/duonganh203/body-up-fe): Fitness social platform with free workout programs.
