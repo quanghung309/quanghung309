@@ -51,10 +51,6 @@ Welcome to my GitHub profile! I'm passionate about coding, learning, and buildin
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
-## 💻 Competitive Programming
-Although I'm early in my competitive programming journey, I'm passionate about algorithmic problem-solving and continuously improving my skills. Competitive programming helps me enhance my logical thinking and coding efficiency.
-
-
 ## 📊 GitHub Stats
 ![Hung Ha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=quanghung309&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quanghung309&layout=compact&theme=radical) 
