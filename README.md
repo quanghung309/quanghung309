@@ -28,22 +28,40 @@
 ---
 ## 💡 Featured Projects
 
-<h3>Here are some of the projects I've worked on:</h3>
+<h3 align="center">Here are some of the projects I've worked on:</h3>
 
 <div align="center">
   <table>
-    <tr>
-      <td width="45%">
-        <h4>📘 <a href="https://github.com/duonganh203/benkyo"><strong style="color:#d63384;">benkyo</strong></a></h4>
-        <p>Benkyo is a simple and effective flashcard app that helps you learn anything faster.</p>
-        <p>🟦 TypeScript &nbsp;&nbsp; 🔗 <a href="https://github.com/duonganh203/benkyo">Repo</a></p>
-      </td>
-      <td>
-        <h4>📘 <a href="https://github.com/Gaming-Thi-u-Gia/body-up-fe"><strong style="color:#d63384;">body-up-fe</strong></a></h4>
-        <p>Join a fitness community with workout programs for weight loss or muscle gain.</p>
-        <p>🟦 TypeScript &nbsp;&nbsp; 🔗 <a href="https://github.com/Gaming-Thi-u-Gia/body-up-fe">Repo</a></p>
-      </td>
-    </tr>
+    <thead>
+      <tr>
+        <th>Project</th>
+        <th>Description</th>
+        <th>Tech Stack</th>
+        <th>Links</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>📘 Benkyo</strong></td>
+        <td>Benkyo is a simple and effective flashcard app that helps you learn anything faster.</td>
+        <td>
+          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+        </td>
+        <td>
+          <a href="https://github.com/duonganh203/benkyo"><img src="https://img.shields.io/badge/Repo-blue?style=flat&logo=github&logoColor=white" /></a>
+        </td>
+      </tr>
+      <tr>
+        <td><strong>📘 Body-Up</strong></td>
+        <td>Join a fitness community with workout programs for weight loss or muscle gain.</td>
+        <td>
+          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+        </td>
+        <td>
+          <a href="https://github.com/Gaming-Thi-u-Gia/body-up-fe"><img src="https://img.shields.io/badge/Repo-blue?style=flat&logo=github&logoColor=white" /></a>
+        </td>
+      </tr>
+    </tbody>
   </table>
 </div>
 ---
