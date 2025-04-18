@@ -4,7 +4,7 @@
     src="https://www.shutterstock.com/shutterstock/videos/3718430807/thumb/1.jpg?ip=x480" 
     alt="Welcome to my profile"
     width="100%" 
-    style="object-fit: cover;"
+    style="height: 270px ;object-fit: cover;"
   />
 </p>
 
