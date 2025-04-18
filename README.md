@@ -1,7 +1,7 @@
 <h1 align="center"></h1>
 <p align="center">
   <img 
-    src="https://img.freepik.com/premium-vector/welcome-neon-light-calligraphic-banner-advertising-ultraviolet-extra-glowing-bright-signboard-title-night-club-illuminated-led-line-tube-lights-fluorescent-inscription-glow-lamp-editable-stroke_145044-142.jpg" 
+    src="https://i.pinimg.com/originals/8b/35/72/8b357283fd26e3bb18cc1983c0ebdb9c.gif" 
     alt="Welcome to my profile"
     width="100%" 
     style="object-fit: cover;"
