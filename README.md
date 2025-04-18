@@ -1,10 +1,10 @@
 <h1 align="center"></h1>
 <p align="center">
   <img 
-    src="https://i.pinimg.com/originals/b9/ab/f0/b9abf0a0feb3219f56a51448d8ffae2c.gif" 
+    src="https://www.shutterstock.com/shutterstock/videos/3718430807/thumb/1.jpg?ip=x480" 
     alt="Welcome to my profile"
     width="100%" 
-    style=" height: 270px ;object-fit: cover;"
+    style="object-fit: cover;"
   />
 </p>
 
