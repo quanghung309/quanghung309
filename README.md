@@ -1,7 +1,7 @@
 <h1 align="center"></h1>
 <p align="center">
   <img 
-    src="https://www.shutterstock.com/shutterstock/videos/3718430807/thumb/1.jpg?ip=x480" 
+    src="https://i.pinimg.com/736x/bd/da/fc/bddafc029d86df72bef91bba70973c71.jpg" 
     alt="Welcome to my profile"
     width="100%" 
     style="height: 270px ;object-fit: cover;"
