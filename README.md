@@ -6,7 +6,7 @@
     width="100%" 
     style="height: 270px ;object-fit: cover;"
   />
-</p>
+</p> 
 
 
 ---
